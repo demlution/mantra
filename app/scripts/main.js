@@ -41,11 +41,11 @@ require.config({
     ,main: 'rekapi-timeline'
   }, {
     name: 'stylie'
-    ,location: 'node_modules/@jeremyckahn/stylie/app/scripts'
+    ,location: 'scripts/stylie/scripts'
     ,main: 'stylie'
   }, {
     name: 'aenima'
-    ,location: 'node_modules/aenima'
+    ,location: 'scripts/aenima'
   }]
 });
 
